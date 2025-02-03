@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kprafullya35@gmail.com
 - 😄 Pronouns: qd21
-- ⚡ Fun fact: I am exploring tech and places & persons
+- ⚡ Fun fact:you
 
 <!---
 PrafullYadav35/PrafullYadav35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
