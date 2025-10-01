@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrafullYadav35
-- 👀 I’m interested in Coding,AI,Leadeship,Machine learning,Blockchain,MERN,Writting,filmaking,Music,Astronomy
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fullstach dev , Frontend Dev, Gen Ai ,LLM and Devops and ML
+- 🌱 I’m exploring Fullstack dev
+- 💞️ I’m looking to collaborate on  fullstach dev , Gen Ai 
 - 📫 How to reach me kprafullya35@gmail.com
 
 
