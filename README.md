@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrafullYadav35
+- 👋 Hi, I’m @PrafullYadav
 - 👀 I’m interested in Fullstach dev , Frontend Dev, Gen Ai ,LLM and Devops and ML
 - 🌱 I’m exploring Fullstack dev
 - 💞️ I’m looking to collaborate on  fullstach dev , Gen Ai 
